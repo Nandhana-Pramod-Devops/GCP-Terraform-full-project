@@ -115,4 +115,4 @@ This application is designed to demonstrate various SonarQube code quality check
 - Potential bugs (division by zero)
 - Code duplications
 - High complexity in some functions 
->>>>>>> da284e6f503f9d03aced4fa178342e92196e9644
+
