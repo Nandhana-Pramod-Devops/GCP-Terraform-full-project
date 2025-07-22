@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # GCP Landing Zone with Terraform
 
 This repository contains Terraform modules and configurations for setting up a secure, scalable, and compliant Google Cloud Platform (GCP) landing zone.
